@@ -1,0 +1,51 @@
+.images-size{
+    height: 40%;
+    width: 40%;
+}
+.buy-now-button{
+    background-color: black;
+    color: white;
+    border: none;
+    border-radius: 10px;
+    padding: 12px 30px;
+    cursor: pointer;
+}
+.card{
+    border: none !important;
+    box-shadow: 5px 5px 15px darkgray;
+}
+.card-body{
+    text-align: center;
+}
+.carousel-item{
+    background-image: url(images/bg-1.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 7% 80%;
+}
+.dot img{
+    width: 120px;
+    margin-top: -80px;
+    margin-bottom: 100px;
+}
+.col-md-6 img{
+    width: 600px;
+}
+.col-md-3 img{
+    width: 230px;
+    box-shadow: 5px 5px 30px darkgray;
+    padding: 60px;
+    margin: 30px;
+    border-radius: 0 20px 0 20px;
+}
+.carousel .carousel-indicators button {
+    background-color: white;
+    background-color: darkgray;
+    height: 10px;
+    width: 30px;
+    border-radius: 15px;
+}
+.carousel .carousel-indicators .active {
+    background-color: black;
+}
+  
